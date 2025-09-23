@@ -50,11 +50,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/yourusername/ML_Algorithm_from_scratch.git
 cd ML_Algorithm_from_scratch
-Install dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
 🧑‍💻 Usage
 Run a specific algorithm example:
 
