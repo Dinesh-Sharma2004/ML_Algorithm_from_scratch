@@ -25,6 +25,7 @@ on high-level frameworks such as scikit-learn or TensorFlow.
 ## 📂 Project Structure
 
 ML_Algorithm_from_scratch-main/
+
 │── ML/
 
 │ ├── Linear_regression/ # Implementation of Linear Regression
