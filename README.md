@@ -26,11 +26,17 @@ on high-level frameworks such as scikit-learn or TensorFlow.
 
 ML_Algorithm_from_scratch-main/
 │── ML/
+
 │ ├── Linear_regression/ # Implementation of Linear Regression
+
 │ ├── Logistic_regression/ # Implementation of Logistic Regression
+
 │ ├── KNN/ # Implementation of k-Nearest Neighbors
+
 │ ├── Naive_Bayes/ # Implementation of Naive Bayes
+
 │── README.md # Project documentation
+
 
 yaml
 Copy code
