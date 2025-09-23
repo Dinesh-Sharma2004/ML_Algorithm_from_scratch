@@ -9,10 +9,14 @@ on high-level frameworks such as scikit-learn or TensorFlow.
 
 ## 🚀 Implemented Algorithms
 
-- [x] Linear Regression  
-- [x] Logistic Regression  
-- [x] k-Nearest Neighbors (k-NN)  
-- [x] Naive Bayes  
+- [x] Linear Regression
+      
+- [x] Logistic Regression
+    
+- [x] k-Nearest Neighbors (k-NN)
+      
+- [x] Naive Bayes
+      
 
 (More algorithms can be added later!)
 
