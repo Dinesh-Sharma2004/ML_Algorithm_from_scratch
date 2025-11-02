@@ -99,8 +99,7 @@ Commit your changes
 Submit a Pull Request 🎉
 
 ## 📜 License
+```bash
 This project is licensed under the MIT License.
-
-pgsql
-Copy code
+ ```
 
