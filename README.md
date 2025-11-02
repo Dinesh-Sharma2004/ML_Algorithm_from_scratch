@@ -1,7 +1,7 @@
 # ML_Algorithm_from_scratch
 
 This repository contains implementations of fundamental **Machine Learning algorithms from scratch** 
-using only Python and core libraries like **NumPy** and **Matplotlib**.  
+using only Python and core libraries like **NumPy** , **Pandas** and **Matplotlib**.  
 The goal is to understand the inner workings of ML models by building them step-by-step without relying 
 on high-level frameworks such as scikit-learn or TensorFlow.
 
