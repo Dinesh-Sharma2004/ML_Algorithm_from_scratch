@@ -66,7 +66,10 @@ for k in ks:
     acc = cross_val_knn(X_train, y_train, k)
     print(f"{k:2d} | {acc*100:.2f}%")
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 504d6a194ad2396fb5a3d3f4b6b42e5121161da3
 best_k = max(ks, key=lambda k: cross_val_knn(X_train, y_train, k))
 print(f"\nBest k based on CV: {best_k}")
 
@@ -76,4 +79,8 @@ for i in range(len(X_test)):
     if pred == y_test[i]:
         correct += 1
 test_acc = correct / len(X_test)
+<<<<<<< HEAD
 print(f"Test Accuracy with k={best_k}: {test_acc*100:.2f}%")
+=======
+print(f"Test Accuracy with k={best_k}: {test_acc*100:.2f}%")
+>>>>>>> 504d6a194ad2396fb5a3d3f4b6b42e5121161da3
