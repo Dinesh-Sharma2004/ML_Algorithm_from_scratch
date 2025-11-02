@@ -16,6 +16,10 @@ on high-level frameworks such as scikit-learn or TensorFlow.
 - [x] k-Nearest Neighbors (k-NN)
       
 - [x] Naive Bayes
+
+- [x] DBSCAN
+
+- [x] K Means 
       
 
 (More algorithms can be added later!)
@@ -33,6 +37,10 @@ ML_Algorithm_from_scratch-main/
 │ ├── Logistic_regression/ # Implementation of Logistic Regression
 
 │ ├── KNN/ # Implementation of k-Nearest Neighbors
+
+│ ├── K_Means/ # Implementation of K means clustering
+
+│ ├── DBSCAN/ # Implementation of DBSCAN
 
 │ ├── Naive_Bayes/ # Implementation of Naive Bayes
 
