@@ -59,6 +59,7 @@ Clone the repo:
 git clone https://github.com/yourusername/ML_Algorithm_from_scratch.git
 cd ML_Algorithm_from_scratch
 
+```
 🧑‍💻 Usage
 Run a specific algorithm example:
 
@@ -91,4 +92,3 @@ This project is licensed under the MIT License.
 pgsql
 Copy code
 
-Do you want me to also **analyze each algorithm folder** and document what’s inside (scripts, datasets, noteboo
