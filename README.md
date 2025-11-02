@@ -60,7 +60,8 @@ git clone https://github.com/yourusername/ML_Algorithm_from_scratch.git
 cd ML_Algorithm_from_scratch
 
 ```
-🧑‍💻 Usage
+
+## 🧑‍💻 Usage
 Run a specific algorithm example:
 
 bash
@@ -68,14 +69,14 @@ Copy code
 python ML/Linear_regression/linear_regression.py
 Or explore all algorithm folders individually.
 
-🎯 Learning Objectives
+## 🎯 Learning Objectives
 Strengthen intuition behind machine learning algorithms.
 
 Understand how training, optimization, and evaluation work internally.
 
 Gain confidence to implement and debug ML models without black-box libraries.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
 Fork the repo
@@ -86,7 +87,7 @@ Commit your changes
 
 Submit a Pull Request 🎉
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
 pgsql
