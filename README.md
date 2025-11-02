@@ -19,8 +19,9 @@ on high-level frameworks such as scikit-learn or TensorFlow.
 
 - [x] DBSCAN
 
-- [x] K Means 
-      
+- [x] K Means
+
+- [x] Support Vector Machine
 
 (More algorithms can be added later!)
 
@@ -43,6 +44,8 @@ ML_Algorithm_from_scratch-main/
 │ ├── DBSCAN/ # Implementation of DBSCAN
 
 │ ├── Naive_Bayes/ # Implementation of Naive Bayes
+
+│ ├── SVM/ # Implementation of Support Vector Machine
 
 │── README.md # Project documentation
 
