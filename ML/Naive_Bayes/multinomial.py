@@ -2,7 +2,7 @@ import numpy as np
 from collections import Counter, defaultdict
 
 # Step 1: Load dataset
-n = 24
+n = int(input())
 data = []
 for _ in range(n):
     row = input().split(',')  # split by comma

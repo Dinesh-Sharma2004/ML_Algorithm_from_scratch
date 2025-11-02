@@ -2,7 +2,7 @@ import numpy as np
 
 # Step 1: Load dataset
 
-n = 30  # number of rows
+n = int(input())  # number of rows
 data = []
 for _ in range(n):
     row = input().split()
