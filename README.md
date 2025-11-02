@@ -12,6 +12,8 @@ on high-level frameworks such as scikit-learn or TensorFlow.
 - [x] Linear Regression
       
 - [x] Logistic Regression
+
+- [x] Decision Tree
     
 - [x] k-Nearest Neighbors (k-NN)
       
@@ -22,6 +24,8 @@ on high-level frameworks such as scikit-learn or TensorFlow.
 - [x] K Means
 
 - [x] Support Vector Machine
+
+- [x] Random Forest
 
 (More algorithms can be added later!)
 
@@ -38,6 +42,10 @@ ML_Algorithm_from_scratch-main/
 │ ├── Logistic_regression/ # Implementation of Logistic Regression
 
 │ ├── KNN/ # Implementation of k-Nearest Neighbors
+
+│ ├── Decision_Tree/ # Implementation of Decision Tree
+
+│ ├── Random_Forest/ # Implementation of Random Forest
 
 │ ├── K_Means/ # Implementation of K means clustering
 
