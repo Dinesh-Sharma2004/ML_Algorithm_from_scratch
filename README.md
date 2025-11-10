@@ -67,7 +67,7 @@ Copy code
 
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/ML_Algorithm_from_scratch.git
+git clone https://github.com/Dinesh-Sharma2004/ML_Algorithm_from_scratch.git
 cd ML_Algorithm_from_scratch
 
 ```
